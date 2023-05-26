@@ -1,12 +1,16 @@
-# Database
+**# Database for Dental Clinic**
 
-g00398315
-Database Project Report
+#### Author: Marina Nikonchuk
+
+#### Final Project for the Module "Database Design & Development" of the H.Dip in Computer Science in Software Development - GMIT
+
+### Project Description
+
 This project consists of the following items:
 SQL queries to create tables and insert the test data into these tables.
-The sql_dentist_g00398315 database is designed to store patient booking information, payment information, treatment history performed by the Mulcahy practice and any specialist 
+The sql_dentist_g00398315 database is designed to store patient booking information, payments, treatment history and appointments performed by the Mulcahy practice and any specialist 
 treatment history.
-Exported file should be imported into XAMPP – this creates tables and inserts test data.
+Exported file should be imported into XAMPP - this creates tables and inserts test data.
 ERD – Entity relation diagram with all the entities, attributes, relationships, primary and foreign keys.
 Codd’s Rules – demonstration of the rules using SQL and brief explanation of each. 
 To create the database, the following steps were required:
