@@ -1,4 +1,4 @@
-#**Database for Dental Clinic**
+# **Database for Dental Clinic**
 
 #### Author: Marina Nikonchuk
 
