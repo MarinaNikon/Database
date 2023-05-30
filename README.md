@@ -19,6 +19,7 @@ To create the database, the following steps were required:
 3. Test data were created. Written and executed insert statements to all tables.
 
 
+### Running project
 In order to use this database, it is required to import the file into XAMPP. 
 Implementation Instructions:
 To implement the sql_dentist_g00398315:
